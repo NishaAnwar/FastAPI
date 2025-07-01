@@ -150,7 +150,7 @@ torch==2.7.1
 torchfile==0.1.0
 torchvision==0.22.1
 tornado==6.5.1
-tqdm==4.62.3
+tqdm
 transformers==4.52.4
 trio==0.25.1
 trio-websocket==0.11.1
